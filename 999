@@ -1,1 +1,21 @@
+-- detective znz working
+--MOD KICK CREDITS TO ZNZ
+print 'detective znz working'
+for i,v in pairs(game.Players:GetPlayers()) do
+
+    if v:IsInGroup(693335996) or v:IsInGroup(657475793) then
+
+        game.Players.LocalPlayer:Kick()
+    end
+end
+
+
+
+game.Players.PlayerAdded:Connect(function(plr)
+
+    if plr:IsInGroup(693335996) or plr:IsInGroup(657475793) then
+
+        game.Players.LocalPlayer:Kick()
+    end
+end)
 
