@@ -1,4 +1,5 @@
 print 'znz touches working'
+print 'svn owns znz'
 --[[
     znz's Soft touches
     Based on the working fling mechanism from znz
