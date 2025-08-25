@@ -1,4 +1,3 @@
 -- first loadstring
-print 'if there isnt 3 prints then znz is broken.'
 loadstring(game:HttpGet("https://raw.githubusercontent.com/yua1233/script/refs/heads/main/mainznz"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/yua1233/script/refs/heads/main/999"))()
